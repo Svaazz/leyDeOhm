@@ -1,0 +1,2 @@
+# leyDeOhm
+Ley de Ohm
